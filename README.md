@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prithvi Patel (student-prithvipatel)
+# 👋 Hi, I'm Prithvi Patel (patel-prithvi)
 
 - 🎓 **Student** | 💻 **Techie** | 🔥 **Passionate**
 - 💻 Languages: **Java**, **MySQL**
