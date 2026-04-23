@@ -16,8 +16,11 @@
 
 ## My Repositories:
 
-- [`CarVerse`](https://github.com/student-prithvipatel/CarRentalSystem_CarVerse) 
-- [`Bas Ticket Booking`](https://github.com/student-prithvipatel/Bus-Ticket-Reservation) 
-- [`Personal Diary`](https://github.com/student-prithvipatel/Personal-Diary) 
+- [`MealPrep`](https://github.com/patel-prithvi/Meal-Prep)
+- [`Mood detector`](https://github.com/patel-prithvi/mood-detector)
+- [`CarVerse`](https://github.com/patel-prithvi/CarRentalSystem_CarVerse)
+- [`AI Document Analyzer`](https://github.com/patel-prithvi/AI-Powered-Document-Classification-and-Intelligent-Indexing)
+- [`Bas Ticket Booking`](https://github.com/patel-prithvi/Bus-Ticket-Reservation) 
+- [`Personal Diary`](https://github.com/patel-prithvi/Personal-Diary) 
 
 ---
